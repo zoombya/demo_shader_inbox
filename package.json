@@ -1,0 +1,19 @@
+{
+  "name": "particles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.141.0",
+    "three-orbit-controls": "^82.1.0",
+    "three-orbitcontrols": "^2.110.3"
+  },
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.6.1"
+  }
+}
